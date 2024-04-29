@@ -1,2 +1,2 @@
 # pwzip
-A zip password cracker.
+A zip password cracker. Fully open-source.
